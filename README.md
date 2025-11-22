@@ -62,7 +62,7 @@ To develop a comprehensive stock analysis system that:
 9. [Data Flow Diagram](#-data-flow-diagram)
 10. [Key Functions & Modules](#-key-functions--modules)
 11. [Results & Analysis](#-results--analysis)
-12. [Bug Fixes & Improvements](#-bug-fixes--improvements)
+12. [Project Screenshots](#-Project-sceenshot)
 13. [Learning Outcomes](#-learning-outcomes)
 14. [Future Enhancements](#-future-enhancements)
 15. [Contributors](#-contributors)
@@ -635,33 +635,18 @@ The project generates comprehensive analysis including:
 - ✅ Execution time: ~70 seconds (first run)
 
 ---
-
-## 🐛 Bug Fixes & Improvements
-
-### Original Issues Found & Fixed:
-
-| Issue | Severity | Status | Fix |
-|-------|----------|--------|-----|
-| Undefined `table` variable | CRITICAL | ✅ Fixed | Define table before use |
-| Wrong soup object usage | CRITICAL | ✅ Fixed | Use correct parser object |
-| Data type conflicts | HIGH | ✅ Fixed | Proper type conversion |
-| Redundant code | MEDIUM | ✅ Fixed | Removed duplicate cells |
-| Function conflicts | MEDIUM | ✅ Fixed | Unified definitions |
-| Missing error handling | HIGH | ✅ Fixed | Added try-except blocks |
-
-### Enhancements Made:
-
-✅ Added comprehensive error handling  
-✅ Implemented fallback to dummy data  
-✅ Added progress indicators  
-✅ Improved code organization  
-✅ Added statistical analysis  
-✅ Created comparative visualizations  
-✅ Added correlation analysis  
-✅ Professional formatting throughout  
-
+## Project Screenshot
+![Screenshot1](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20193042.png)
+![Screenshot2](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20193056.png)
+![Screenshot3](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20193112.png)
+![Screenshot4](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20195233.png)
+![Screenshot5](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20195242.png)
+![Screenshot7](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20195257.png)
+![Screenshot8](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20195316.png)
+![Screenshot9](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20212802.png)
+![Screenshot10](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20212846.png)
+![Screenshot11](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project/blob/main/Screenshots/Screenshot%202025-11-22%20212916.png)  
 ---
-
 ## 🎓 Learning Outcomes
 
 This project demonstrates understanding of:
